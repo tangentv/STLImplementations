@@ -1,2 +1,0 @@
-
-    for(auto a : l){
